@@ -1,11 +1,9 @@
 import React from 'react'
 import Main from '../components/Main'
 
-function Home() {
+const Home = () => {
   return (
-    <>
     <Main/>
-    </>
   )
 }
 

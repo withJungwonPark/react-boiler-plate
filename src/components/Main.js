@@ -1,10 +1,10 @@
 import React from 'react'
 import styled from 'styled-components';
 
-function Main() {
+const Main = () => {
   return (
     <Wrapper>
-      <Sht>main component for Home page</Sht>
+      <Sht>Main Component for Home page !</Sht>
     </Wrapper>
   )
 }
